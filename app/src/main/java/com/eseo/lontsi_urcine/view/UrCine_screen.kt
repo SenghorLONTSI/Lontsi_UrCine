@@ -17,6 +17,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import com.eseo.lontsi_urcine.viewmodel.UrCineViewModel
 import com.eseo.lontsi_urcine.ui.theme.PurpleGrey80
 
+
 @Preview
 @Composable
 fun UrCineScreen(
